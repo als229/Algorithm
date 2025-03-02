@@ -9,6 +9,14 @@ public class Bronze {
 		question1();
 	}
 	
+	public static void test1() {
+	
+		int a = sc.nextInt();
+		int b = sc.nextInt();
+		
+		System.out.println(a+b);
+	}
+	
 	public static void question1() {
 		
 	    // 숫자의 개수 N 을 입력 받음.
@@ -33,7 +41,7 @@ public class Bronze {
 	}
 
 	public static void question2() {
-
+		
 		
 	}
 }
